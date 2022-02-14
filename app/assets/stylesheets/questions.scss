@@ -1,0 +1,24 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.coment {
+  border-color: white, white, white, grey;
+  border: 10px;
+  border-style: inset;
+  border-top-style: none;
+  border-bottom-style: none;
+  border-right-style: none;
+  width: 300px;
+}
+
+p {
+  margin: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.coment:hover {
+  background-color: lightyellow;
+}
